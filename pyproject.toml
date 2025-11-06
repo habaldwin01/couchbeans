@@ -17,8 +17,8 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/owoalex/couchbeans"
-Issues = "https://github.com/owoalex/couchbeans/issues"
+Homepage = "https://github.com/habaldwin01/couchbeans"
+Issues = "https://github.com/habaldwin01/couchbeans/issues"
 
 [tool.setuptools.dynamic]
 
